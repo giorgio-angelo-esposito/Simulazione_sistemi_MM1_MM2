@@ -1,4 +1,4 @@
-#Simulazione di sistemi di servizio M/M/1 e M/M/2
+# Simulazione di sistemi di servizio M/M/1 e M/M/2
 
 Il notebook contiene la spiegazione e l'implementazione in Python di sistemi di servizio M/M/1 e M/M/2 nel transiente e nel continuo.
 
